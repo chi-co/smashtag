@@ -1,3 +1,3 @@
 # smashtag
 
-Made with guidance of Stanford CS193p class 10.
+Made with the guidance of Stanford CS193p class 10.
